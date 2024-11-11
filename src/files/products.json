@@ -1,0 +1,35 @@
+[
+	{
+		"id": 1,
+		"title": "Werner",
+		"description": "Mesa Ratona",
+		"code": "0001",
+		"price": 100,
+		"status": true,
+		"stock": "1",
+		"category": "Muebles",
+		"thumbnail": null
+	},
+	{
+		"id": 2,
+		"title": "Werner",
+		"description": "dsadsadsa",
+		"code": "123",
+		"price": 1,
+		"status": false,
+		"stock": 0,
+		"category": "mueble",
+		"thumbnail": null
+	},
+	{
+		"id": 3,
+		"title": "dsadsa",
+		"description": "dsadsa",
+		"code": "1231",
+		"price": 123,
+		"status": true,
+		"stock": "3",
+		"category": "mueble",
+		"thumbnail": null
+	}
+]
